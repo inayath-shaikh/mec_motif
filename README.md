@@ -11,7 +11,7 @@ stellate_cells.ipynb contains the model and replication of a part of result obta
 stochastic_resonance.ipynb contains exploratory analysis for stochastic resonance. <br />
 
 
-References:<br />
+<b>References:</b> <br />
 Acker, C. D., Kopell, N., & White, J. A. (2003). Synchronization of strongly coupled excitatory neurons: Relating network behavior to biophysics. Journal of Computational Neuroscience, 15(1), 71–90. https://doi.org/10.1023/A:1024474819512 <br />
 Carnevale, N.T. and Hines, M.L. The NEURON Book. Cambridge, UK: Cambridge University Press, 2006.<br />
 Neru, A., & Assisi, C. (2019). Theta oscillations gate the transmission of reliable sequences in the medial entorhinal cortex. BioRxiv, 1–43. https://doi.org/10.1101/545822<br />
