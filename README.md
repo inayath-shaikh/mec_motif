@@ -7,7 +7,7 @@ To compile mod files run the following command in the directory containing the m
 linux: nrnivmodl <br />
 MS windows: mknrndll <br />
 
-stellate_cell.ipynb contains the model and replication of a part of result obtained in Neru, A., & Assisi, C. (2019) <br />
+stellate_cells.ipynb contains the model and replication of a part of result obtained in Neru, A., & Assisi, C. (2019) <br />
 stochastic_resonance.ipynb contains exploratory analysis for stochastic resonance. <br />
 
 
